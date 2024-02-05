@@ -1,6 +1,6 @@
 Hi there! 👋 I'm HARISH S M, an aspiring Full Stack Developer with a passion for crafting robust and scalable web applications. I specialize in problem-solving and am currently honing my skills in backend development using Node.js and Express.
 
-# 🚀 About Me
+## 🚀 About Me
 I thrive on challenges and take pride in creating elegant solutions to complex problems. My journey in the tech world is fueled by a relentless curiosity and a commitment to continuous learning. As a dedicated Full Stack enthusiast, I bring a unique blend of creativity and analytical thinking to every project.
 
 ## 💻 Tech Stack
