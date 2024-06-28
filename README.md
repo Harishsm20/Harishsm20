@@ -4,10 +4,10 @@ Hi there! 👋 I'm HARISH S M, an aspiring Full Stack Developer with a passion f
 I thrive on challenges and take pride in creating elegant solutions to complex problems. My journey in the tech world is fueled by a relentless curiosity and a commitment to continuous learning. As a dedicated Full Stack enthusiast, I bring a unique blend of creativity and analytical thinking to every project.
 
 ## 💻 Tech Stack
-Frontend: HTML, CSS, JavaScript, REACT, Angular 17
-Backend: Node.js, Express, PHP  
-Database: MongoDB
-Tools & Technologies: Git, VS Code, Android Studio
+. Frontend: HTML, CSS, JavaScript, REACT, Angular 17
+. Backend: Node.js, Express, PHP  
+. Database: MongoDB
+. Tools & Technologies: Git, VS Code, Android Studio
 
 ## 🌱 Learning Journey
 I am on an exciting learning path, focusing on mastering the intricacies of backend development. My current endeavors include diving deep into Node.js and Express, and I am enthusiastic about expanding my skill set to encompass the full spectrum of Full Stack technologies.
