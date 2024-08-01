@@ -13,7 +13,7 @@ I thrive on challenges and take pride in creating elegant solutions to complex p
 |---------------------|------------------------------------|
 | **Frontend**        | HTML, CSS, JavaScript, REACT, Angular 17 |
 | **Backend**         | Node.js, Express, PHP              |
-| **Database**        | MongoDB                            |
+| **Database**        | MongoDB, SQL                            |
 | **Tools & Technologies** | Git, VS Code, Android Studio        |
 
 
