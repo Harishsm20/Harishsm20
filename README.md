@@ -1,39 +1,67 @@
-# Hi there! 👋 I'm HARISH S M, 
-An aspiring Full Stack Developer with a passion for crafting robust and scalable web applications. I specialize in problem-solving and am currently honing my skills in backend development using Node.js and Express.
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=Harishsm20&label=Profile%20views&color=0e75b6&style=flat" alt="Harishsm20" />
+<hr/>
+
+<div align="center">
+    <img align="center" src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3500&pause=500&center=true&vCenter=true&width=435&lines=Hi%2C+There%F0%9F%91%8B;I'm+Harish" />
+</div>
+
+<h3 align="center">Full Stack Developer | Exploring the Boundless World of Technology</h3>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=HARISH&label=Profile%20views&color=0D1117&bg_color=7F3FBF&style=flat" alt="HARISH" /></p>
+
+<div align="center">
+I'm a passionate and dedicated aspiring full stack developer with a strong interest in creating dynamic and responsive web applications. My journey in the world of coding began with curiosity and has since evolved into a full-fledged passion for developing robust and scalable solutions.
+</div>
+
+<h3 align="center">🌐 Connect with me</h3>
+<div align="center">
+  <a href="https://harish-portfolio.netlify.app/" target="_blank"><img src="https://skillicons.dev/icons?i=processing" width="33" /></a>
+  <a href="mailto:harish@example.com" ><img src="https://skillicons.dev/icons?i=gmail&theme=light" width="30" /></a>
+  <a href="https://www.linkedin.com/in/HARISH/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="30" /></a>
+</div>
+
+---
+<h3 align="center"> Programming Languages </h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
+</div>
+
+<h3 align="center"> Development Frameworks</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,scss,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
+</div>
+
+<h3 align="center"> DevOps & Tools :</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+</div>
+
+---
+
+<h3 align="center">My Statistics 📊</h3>
+<p align="center">
+<table align="center">
+<tr>
+<td colspan="2" align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARISH&custom_title=Harish%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Activity Graph" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=HARISH&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+
+</td>
+<td width="50%" align="center">
+
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HARISH&theme=dark&hide_border=false" />
+
+</td>
+</tr>
+</table>
 </p>
 
-## 🚀 About Me
-I thrive on challenges and take pride in creating elegant solutions to complex problems. My journey in the tech world is fueled by a relentless curiosity and a commitment to continuous learning. As a dedicated Full Stack enthusiast, I bring a unique blend of creativity and analytical thinking to every project.
+---
 
-## 💻 Tech Stack
-
-| **Category**        | **Technologies**                   |
-|---------------------|------------------------------------|
-| **Frontend**        | HTML, CSS, JavaScript, REACT, Angular 17 |
-| **Backend**         | Node.js, Express, PHP              |
-| **Database**        | MongoDB, SQL                            |
-| **Tools & Technologies** | Git, VS Code, Android Studio        |
-
-
-## 🌱 Learning Journey
-I am on an exciting learning path, focusing on mastering the intricacies of backend development. My current endeavors include diving deep into Node.js and Express, and I am enthusiastic about expanding my skill set to encompass the full spectrum of Full Stack technologies.
-
-## 🤝 Let's Connect
-I am always open to collaboration, learning opportunities, and networking with like-minded professionals. Feel free to connect with me on LinkedIn to explore potential collaborations, discuss tech trends, or share insights into the dynamic world of Full Stack development.
-
-Let's code and create something extraordinary together! 🚀✨
-
-## 💞️ I’m looking to collaborate on ...
-As a Full Stack Developer in the making, I'm eager to collaborate on innovative projects that push the boundaries of technology. Whether it's contributing to open-source initiatives, building web applications, or tackling challenging problems, I'm ready to dive in and work with a passionate team. Let's create something extraordinary together!
-
-[Linked In](www.linkedin.com/in/harish-s-m-033273268)
-
-
-
-
-<!---
-Harishsm20/Harishsm20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">Thank you for visiting my profile!👍</div>
